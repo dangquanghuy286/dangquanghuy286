@@ -47,11 +47,11 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
 </p>
-### 🔹 Databases  
+### **📂 Databases** 
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
 </p>
-### 🛠️ Tools  
+### **🛠 Tools**  
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS"/>
