@@ -1,5 +1,4 @@
 ## ✨ **Hi 👋, I'm Quang Huy**  
-### A passionate developer from Vietnam 🇻🇳  
 
 ![](https://komarev.com/ghpvc/?username=dangquanghuy286&style=flat-square)  
 
@@ -39,7 +38,7 @@
 ### ⚙️ **Programming Languages**  
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
