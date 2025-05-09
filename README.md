@@ -70,7 +70,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquanghuy286&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng" alt="GitHub Top Languages" width="100%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangquanghuy286&theme=vue&background=000000" alt="Streak Stats"/>
+      <img src="https://streak-stats.demolab.com/?user=dangquanghuy286&theme=vue&background=000000" alt="Streak Stats"/>
     </td>
     <td>
      <p align="center"> 
