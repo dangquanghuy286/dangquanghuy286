@@ -67,19 +67,47 @@
 
 ## 📈 **GitHub Activities**
 
-<table style="width:100%;">
+<table style="width: 100%; border-spacing: 20px;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquanghuy286&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ng%C3%B4n%20ng%E1%BB%AF%20%C4%91%C6%B0%E1%BB%A3c%20d%C3%B9ng" alt="GitHub Top Languages" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=dangquanghuy286&theme=dark&background=000000&include_all_commits=true&hide_border=true" alt="Streak Stats" width="100%"/>
+    <!-- Cột thống kê GitHub -->
+    <td style="vertical-align: top; width: 50%;">
+      <!-- Top ngôn ngữ sử dụng -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquanghuy286&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" 
+        alt="Top ngôn ngữ được dùng - GitHub Stats" 
+        title="Top ngôn ngữ được sử dụng"
+        width="100%" 
+        style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'"
+      />
+      <br/><br/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=dangquanghuy286&theme=dark&bg_color=000000&include_all_commits=true&hide_border=true&show_icons=true" 
+        alt="Thống kê GitHub" 
+        title="Tổng quan hoạt động GitHub"
+        width="100%" 
+        style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.02)'" 
+        onmouseout="this.style.transform='scale(1)'"
+      />
     </td>
-    <td>
-     <p align="center"> 
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjdW5sNXNhYnFkcm85MHE5ZDJkaWU5c3BwajBjNDhsMWYzYzd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer Gif" width="100%"/>
-</p>
+    <!-- Cột ảnh developer animation -->
+    <td style="vertical-align: middle; width: 50%; text-align: center;">
+      <img 
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjdW5sNXNhYnFkcm85MHE5ZDJkaWU5c3BwajBjNDhsMWYzYzd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" 
+        alt="Developer Animation" 
+        title="Developer at Work"
+        width="80%" 
+        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
+        onmouseover="this.style.transform='scale(1.05)'" 
+        onmouseout="this.style.transform='scale(1)'"
+      />
     </td>
   </tr>
-</table>  
+</table>
+
+
 
 ---
 
