@@ -98,7 +98,7 @@
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNjdW5sNXNhYnFkcm85MHE5ZDJkaWU5c3BwajBjNDhsMWYzYzd0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" 
         alt="Developer Animation" 
         title="Developer at Work"
-        width="80%" 
+        width="100%" 
         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: transform 0.3s ease;"
         onmouseover="this.style.transform='scale(1.05)'" 
         onmouseout="this.style.transform='scale(1)'"
