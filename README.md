@@ -33,6 +33,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
   <img width="48" height="48" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="JavaScript"/>
 </p>  
 
 ### ⚙️ **Programming Languages**  
@@ -43,11 +44,16 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/96/pug.png" alt="Pug Icon" width="48" height="48"/>
+
 </p>  
 
 ### 📂 **Databases**  
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL Server"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="MongoDB Logo"  />
+  <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL Logo"  />
+
 </p>  
 
 ### 🛠 **Tools**  
