@@ -1,4 +1,4 @@
-## ✨ **Hi 👋, I'm Quang Huy**  
+**Hi , I'm Quang Huy**  
 
 ![](https://komarev.com/ghpvc/?username=dangquanghuy286&style=flat-square)  
 
