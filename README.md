@@ -62,7 +62,6 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab"/>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/null/visual-studio--v2.png" alt="Visual Studio"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
