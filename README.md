@@ -33,7 +33,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
   <img width="48" height="48" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="JavaScript"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
 </p>  
 
