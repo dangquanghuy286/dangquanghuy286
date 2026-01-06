@@ -91,7 +91,7 @@
       <br/><br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangquanghuy286&theme=github_dark" width="100%"/>
     </td>
-    <td width="50%" align="center">
+    <td width="auto" align="center">
       <img 
         src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
         width="100%" 
