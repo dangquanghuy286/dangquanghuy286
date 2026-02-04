@@ -13,7 +13,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c0d1?style=flat-square&logo=vercel&logoColor=white)](https://danghuuquanghuy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-dangquanghuy286-00c0d1?style=flat-square&logo=github&logoColor=white)](https://github.com/dangquanghuy286)
 
-
 </div>
 
 ---
@@ -94,8 +93,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dangquanghuy286&theme=github_dark" width="100%"/>
     </td>
     <td width="auto" align="center">
-      <img 
-        src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
+      <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" 
         width="100%" 
         style="border-radius:10px"
       />
