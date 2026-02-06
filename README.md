@@ -7,12 +7,9 @@
   alt="Typing SVG" 
 />
 
-
 ![](https://komarev.com/ghpvc/?username=dangquanghuy286&style=flat-square&color=00c0d1)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c0d1?style=flat-square&logo=vercel&logoColor=white)](https://danghuuquanghuy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-dangquanghuy286-00c0d1?style=flat-square&logo=github&logoColor=white)](https://github.com/dangquanghuy286)
-
 </div>
 
 ---
