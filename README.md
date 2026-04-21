@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm **Quang Huy**
+##  Hi, I'm **Quang Huy**
 
 <img 
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00c0d1&center=true&vCenter=true&width=600&lines=Frontend+Developer;QA+Tester;UI/UX+Designer;Web+Developer;Product+Designer" 
