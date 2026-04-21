@@ -44,6 +44,7 @@
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="48"/>
   <img src="https://img.icons8.com/color/48/express-js.png" width="48"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" width="48"/>
   <img src="https://img.icons8.com/color/48/material-ui.png" width="48"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" width="48"/>
 </p>
