@@ -43,8 +43,8 @@
   <img src="https://img.icons8.com/color/48/bootstrap.png" width="48"/>
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="48"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png" width="48"/>
-  <img src="https://img.icons8.com/color/48/express-js.png" width="48"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" style="filter: invert(1);"/>
   <img src="https://img.icons8.com/color/48/material-ui.png" width="48"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" width="48"/>
 </p>
