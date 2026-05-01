@@ -60,7 +60,7 @@
   <img src="https://img.icons8.com/color/96/pug.png" width="48"/>
 </p>
 
-### 📂 **Databases**
+### 📂 **Database**
 <p align="center">
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48"/>
   <img src="https://img.icons8.com/color/48/mongo-db.png" width="48"/>
